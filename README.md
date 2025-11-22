@@ -1,3 +1,5 @@
+Before we start, a note we are looking for open-source contributors to make that happen. We plan to release that cli in December 2025.
+
 # varg cli
 
 > AI video infrastructure from your terminal.
