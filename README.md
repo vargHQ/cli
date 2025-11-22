@@ -1,7 +1,9 @@
 # varg cli
 
 > AI video infrastructure from your terminal.
+
 Status
+
 🟡 Pre-release — Active development, looking for contributors.
 
 
